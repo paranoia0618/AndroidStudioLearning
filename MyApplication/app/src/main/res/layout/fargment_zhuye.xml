@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/fragment_main">
+
+
+
+    <RelativeLayout
+        android:id="@+id/ly_top_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/bg_topbar"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <LinearLayout
+            android:background="@color/colorGreen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:id="@+id/top">
+
+            <Button
+                android:id="@+id/btn_type"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_gravity="center_vertical"
+                android:background="@drawable/btn_search_bg"
+                android:layout_width="@dimen/btn_width"
+                android:layout_height="@dimen/btn_height"
+                android:text="分类"
+                android:textColor="@color/text_white"/>
+
+            <FrameLayout
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content">
+
+                <EditText
+                    android:id="@+id/search_et_input"
+                    android:layout_gravity="center_vertical"
+                    android:layout_margin="10dp"
+                    android:drawableLeft="@drawable/search_icon"
+                    android:drawablePadding="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/search_edittext_shape"
+                    android:textSize="16sp"
+                    android:imeOptions="actionSearch"
+                    android:inputType="text"
+                    android:hint="请输入关键字"/>
+
+                <ImageView
+                    android:visibility="gone"
+                    android:layout_marginRight="20dp"
+                    android:src="@drawable/iv_delete_bg"
+                    android:id="@+id/search_iv_delete"
+                    android:layout_gravity="right|center_vertical"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+            </FrameLayout>
+
+            <Button
+                android:id="@+id/btn_chat"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_gravity="center_vertical"
+                android:background="@drawable/btn_search_bg"
+                android:layout_width="@dimen/btn_width"
+                android:layout_height="@dimen/btn_height"
+                android:text="消息"
+                android:textColor="@color/text_white"/>
+
+        </LinearLayout>
+
+        <com.example.lxy.a3.BannerView
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:id="@+id/banner"
+            android:layout_below="@+id/top"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true">
+
+            <Button
+                android:id="@+id/btn_remen"
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dip"
+                android:layout_weight="1"
+                android:text="热门"
+                android:textColor="@color/text_white"
+                android:background="@drawable/btn_search_bg"/>
+
+            <Button
+                android:id="@+id/btn_paimai"
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dip"
+                android:layout_weight="1"
+                android:text="拍卖"
+                android:textColor="@color/text_white"
+                android:background="@drawable/btn_search_bg"/>
+
+            <Button
+                android:id="@+id/btn_mianfei"
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dip"
+                android:layout_weight="1"
+                android:text="免费送"
+                android:textColor="@color/text_white"
+                android:background="@drawable/btn_search_bg"/>
+
+         </LinearLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp">
+        <TextView
+            android:id="@+id/tbtv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_centerVertical="true"
+            android:textSize="22sp"
+            android:textColor="@color/green"
+            android:text="@string/taobao" />
+
+        <com.example.lxy.a3.UPMarqueeView
+            android:id="@+id/upview1"
+            android:layout_marginLeft="20dp"
+            android:layout_width="match_parent"
+            android:layout_toRightOf="@+id/tbtv"
+            android:layout_centerVertical="true"
+            android:layout_marginTop="10dp"
+            android:layout_height="match_parent">
+        </com.example.lxy.a3.UPMarqueeView>
+    </RelativeLayout>
+
+</LinearLayout>
