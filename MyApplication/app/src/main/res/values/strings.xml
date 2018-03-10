@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">app</string>
+    <string name="dingdan">我的订单</string>
+    <string name="my_favorite">我的收藏</string>
+    <string name="my_addresses">我的地址</string>
+    <string name="my_msg">消息</string>
+    <string name="logout">退出登录</string>
+    <string name="login">登 录</string>
+    <string name="taobao">交易\n头条</string>
+</resources>
