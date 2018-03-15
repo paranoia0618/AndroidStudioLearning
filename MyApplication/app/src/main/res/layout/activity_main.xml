@@ -71,14 +71,14 @@
         android:orientation="vertical">
 
         <ImageView
-            android:id="@+id/tab_more_iv"
+            android:id="@+id/iv_fabu"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="onClickPublish"
             android:src="@mipmap/comui_tab_post" />
 
         <TextView
-            android:id="@+id/textView5"
+            android:id="@+id/textView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="6dp"
