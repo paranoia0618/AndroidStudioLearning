@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\LXY\.android\build-cache\3345594059471f5df5f3417eb139cb2a89795678\output\jars\libs\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="cea3a9be08d0dcf89783b2cc87c8787fdb2a0d12">
+        <dex dex="C:\Users\LXY\Downloads\Trade\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.2_9e92f90dc53acec4dd81eb95c323662669695a2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LXY\.android\build-cache\77249046eb7a59cfd46b5483a261bd7aac79ba77\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="883651d5aac45101b1b8050a4d596f3571d59667">
+        <dex dex="C:\Users\LXY\Downloads\Trade\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6ba3c0e6f9a41d71b3d17a1c528d31dfc3ff6788\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LXY\.android\build-cache\563457b1e6d0d75e248cc92735bfc404552639ab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\LXY\Downloads\Trade\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_16b98c8c15e4587620406403d5a2bd9488fdf461\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LXY\Downloads\Trade\app\libs\mta-sdk-1.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="C:\Users\LXY\Downloads\Trade\app\build\intermediates\transforms\dex\debug\folders\1000\2\mta-sdk-1.6.2_8e0dc883bd0a36e6a4184a2950d38d61a467f427\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LXY\.android\build-cache\4ba881199f2f56e3081898d69ff23425e21c6ca9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="C:\Users\LXY\Downloads\Trade\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8bd200eb687ab8693648216e78e84a7add3378ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LXY\.android\build-cache\bd37a2698d82c60994098c1e17fe1ced163134d5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="C:\Users\LXY\Downloads\Trade\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3ceb77000aed920823bda7e17bd47691e21be21b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LXY\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\disklrucache\4.0.0\d88059003509074dd59fa226c822724bcf5ec0ca\disklrucache-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d88059003509074dd59fa226c822724bcf5ec0ca">
+        <dex dex="C:\Users\LXY\Downloads\Trade\app\build\intermediates\transforms\dex\debug\folders\1000\10\disklrucache-4.0.0_e8d47f56a3a522c200a24207ebfdca74b0c4f59f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LXY\.android\build-cache\686c35d7409f7ddf1952b7e7e9b7a65ececa8f18\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="bfda70907801a769049ab438d8d97622eac0b6ae">
+        <dex dex="C:\Users\LXY\Downloads\Trade\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_def74e7009c2b182396b1968b1f50fae5e934206\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LXY\.android\build-cache\3345594059471f5df5f3417eb139cb2a89795678\output\jars\libs\rxandroid-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="84127ad71f76445b8215afceb38e8b05f58eafa6">
+        <dex dex="C:\Users\LXY\Downloads\Trade\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxandroid-1.2.0_ef8d6a37566e577b4ba3139c9d2ad762279b811f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LXY\.android\build-cache\2a3375a37429145599e03eb7c01f6789c2040be5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="56b24cbd303368a3dc7a0cf1efbeb4f59b9ad742">
+        <dex dex="C:\Users\LXY\Downloads\Trade\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7227a5631a71b693b30d74adc01b1eb54575bf1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LXY\.android\build-cache\3345594059471f5df5f3417eb139cb2a89795678\output\jars\libs\okio-1.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f64e0f80ef26fbc722b4bc9f024370d5b1e8f6d6">
+        <dex dex="C:\Users\LXY\Downloads\Trade\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.7.0_fbfb7c556dbf1a8c6d14e1a5bb1ccf1b2b9078c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LXY\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\4.0.0\dff931af436f0a2815d0109ab2258bbce2d6275d\glide-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="dff931af436f0a2815d0109ab2258bbce2d6275d">
+        <dex dex="C:\Users\LXY\Downloads\Trade\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-4.0.0_b4c81a5b227450b2515db814479d2cbbf6f640b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LXY\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\gifdecoder\4.0.0\47c487cc4e64e6ab127a517669ca9a7b49f8c61d\gifdecoder-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="47c487cc4e64e6ab127a517669ca9a7b49f8c61d">
+        <dex dex="C:\Users\LXY\Downloads\Trade\app\build\intermediates\transforms\dex\debug\folders\1000\10\gifdecoder-4.0.0_dd25a7741918807f5c015d3af92cd319ec46eb03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LXY\Downloads\Trade\easeui\build\intermediates\bundles\default\libs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f6a788057b9f17f30905e43c2b4ed3e02dc04da3">
+        <dex dex="C:\Users\LXY\Downloads\Trade\app\build\intermediates\transforms\dex\debug\folders\1000\8\org.apache.http.legacy_abda184a36ebc70d94d5ef0eee5a83793dd2a7af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LXY\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.0\14b8c877d98005ba3941c9257cfe09f6ed0e0d74\reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="C:\Users\LXY\Downloads\Trade\app\build\intermediates\transforms\dex\debug\folders\1000\10\reactive-streams-1.0.0_eb0f4aca36c245ce656c39cd82203a4f3f0e6d1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LXY\.android\build-cache\67be80162b7f092a6acf55ff28aa23b7b09c14e6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="98b5309c8d368a7c83ca5f90e0c905044c195edd">
+        <dex dex="C:\Users\LXY\Downloads\Trade\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1369b77d58c9ab8e1a3d952edcbbf3d59f553b13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LXY\Downloads\Trade\easeui\build\intermediates\bundles\default\libs\hyphenatechat_3.3.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="1190bb303438e4ba54da3330cd91be4968a178e0">
+        <dex dex="C:\Users\LXY\Downloads\Trade\app\build\intermediates\transforms\dex\debug\folders\1000\8\hyphenatechat_3.3.4_19e53b9efa86d125dfebb19a7cbfed5ced451e76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LXY\.android\build-cache\3345594059471f5df5f3417eb139cb2a89795678\output\jars\libs\okhttp-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e009af854d43130a9a13bcba900ddd1124e835d5">
+        <dex dex="C:\Users\LXY\Downloads\Trade\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.1_9b8f0db2cc1a400e493fd400a437b6734d8493c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LXY\.android\build-cache\d4b372a52b4669a5e14fe1400eba7e2e3b97acbb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="cdcc593753562a78b66e08d6bbe6175b875b8310">
+        <dex dex="C:\Users\LXY\Downloads\Trade\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d8ab8f27f092025acf1c0041b0c64c178a38c04c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LXY\Downloads\Trade\easeui\build\intermediates\bundles\default\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f1d3eb83228ace176170b6c5c9fa3b792011581b">
+        <dex dex="C:\Users\LXY\Downloads\Trade\app\build\intermediates\transforms\dex\debug\folders\1000\8\BaiduLBS_Android_db451459c949027ebad8a953fdd31e268d7ef5a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LXY\.gradle\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.0.5\4f1ac7ec0215e8f87ac80269baadc82878b87ed8\rxjava-2.0.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="4f1ac7ec0215e8f87ac80269baadc82878b87ed8">
+        <dex dex="C:\Users\LXY\Downloads\Trade\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-2.0.5_d255a469a2c93f698bc3df581be798a65e175de6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LXY\.android\build-cache\3345594059471f5df5f3417eb139cb2a89795678\output\jars\libs\BmobSDK_3.5.5_20170420.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f67cfc97fcbde8b4764f01135b10afa716ae1a40">
+        <dex dex="C:\Users\LXY\Downloads\Trade\app\build\intermediates\transforms\dex\debug\folders\1000\10\BmobSDK_3.5.5_20170420_f9974fe4e905a71cdde893d2543dd8084c5a888d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LXY\Downloads\Trade\easeui\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="72d61dce2a01da82cf0052247611874e40ceedbd">
+        <dex dex="C:\Users\LXY\Downloads\Trade\app\build\intermediates\transforms\dex\debug\folders\1000\4\classes_12c6ba888ff72640fcb1cb2a9a0322f0523eb560\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LXY\Downloads\Trade\app\libs\open_sdk_r5793.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="54bf962bc0730052daa0a92b1c2599c147be3f88">
+        <dex dex="C:\Users\LXY\Downloads\Trade\app\build\intermediates\transforms\dex\debug\folders\1000\2\open_sdk_r5793_4e4e6a015a15fc779a5419344d8670548a18b29c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LXY\.android\build-cache\3345594059471f5df5f3417eb139cb2a89795678\output\jars\libs\rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="79f0c1e382e8b62e91064ef6b71130dda83f338e">
+        <dex dex="C:\Users\LXY\Downloads\Trade\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.1.6_36cabee3981f9e2e066bb3df49baf26b3a357ffc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LXY\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.5.1\bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc\butterknife-annotations-8.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="C:\Users\LXY\Downloads\Trade\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.5.1_0cfbc1e7a1636401c95197d4f05b3d1f8d23b11f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LXY\.android\build-cache\659b7e2f5cee298475f999167fdd286c152d05ce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\LXY\Downloads\Trade\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a9dcd11ee0808edd9ff5ed469da02c16eb739e32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LXY\.android\build-cache\3345594059471f5df5f3417eb139cb2a89795678\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="ac71d1248d0f3577b39093396e6ff35582a5d7a4">
+        <dex dex="C:\Users\LXY\Downloads\Trade\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_81406d45fe96f9e64fe28cb62d6e69a35ca5c16d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LXY\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\annotations\4.0.0\f80192e6fd828d41c7da6f3552b0bef5d89cb26e\annotations-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f80192e6fd828d41c7da6f3552b0bef5d89cb26e">
+        <dex dex="C:\Users\LXY\Downloads\Trade\app\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-4.0.0_f73fffb59a3f0450a62e3dbddb257ddce8a1e45f\classes.dex" />
+    </item>
+
+</items>
